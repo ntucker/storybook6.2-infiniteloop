@@ -1,0 +1,22 @@
+{
+  "@anansi/generator-js": {
+    "promptValues": {
+      "projectType": "SPA",
+      "githubOrg": "",
+      "features": [],
+      "reactMode": "legacy",
+      "style": "linaria"
+    },
+    "githubOrg": "",
+    "rootPath": "src",
+    "assetPath": "dist",
+    "appName": "storybook-test",
+    "githubDomain": "github.com",
+    "testing": false,
+    "features": [],
+    "badges": "",
+    "webpack": true,
+    "reactMode": "legacy",
+    "style": "linaria"
+  }
+}
