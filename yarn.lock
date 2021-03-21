@@ -50,7 +50,7 @@
     eslint-plugin-flowtype "^5.2.0"
     eslint-plugin-jsx-a11y "^6.4.1"
 
-"@anansi/webpack-config@^6.0.0-beta.2":
+"@anansi/webpack-config@^6.0.0-beta.5":
   version "6.0.0-beta.5"
   resolved "https://registry.yarnpkg.com/@anansi/webpack-config/-/webpack-config-6.0.0-beta.5.tgz#47833b1d265e974218b34025e62c98f13e8b116f"
   integrity sha512-C475IccAmCyRljBxuv4HvVpdrkS8PnxG3eYj2LRb5qZaIjyqLJawIxqPvYgi9AUFsFZC9gqnz5Jwp2odTXJFtw==
